@@ -1,11 +1,11 @@
 
 # Simple RAG Chatbot
 
-An educational chatbot project demonstrating Retrieval-Augmented Generation (RAG), designed as a reference for developers exploring document-based AI assistants.
+An educational chatbot project demonstrating Retrieval-Augmented Generation (RAG).
 
 ## Overview
 
-This project showcases how to combine document retrieval with OpenAI's language models to answer user queries using relevant content from uploaded documents. It serves as a practical reference for developers interested in building AI-powered assistants.
+This project showcases how to combine document retrieval with large language models to answer user queries using relevant content from uploaded document. 
 
 ## Setup
 
